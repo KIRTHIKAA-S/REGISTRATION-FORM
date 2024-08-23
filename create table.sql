@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS registration_db;
+CREATE DATABASE registration_db;
 
 USE registration_db;
 
