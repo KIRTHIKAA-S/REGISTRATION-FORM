@@ -19,6 +19,3 @@ document.getElementById('registrationForm').addEventListener('submit', function(
         document.body.innerHTML = '<div style="display: flex; justify-content: center; align-items: center; height: 100vh;"><h1>Registration Complete</h1></div>';
     }
 });
-    if (isValid){
-        // Proceed with form submission by submitting the form to the PHP script
-        this.submit():
